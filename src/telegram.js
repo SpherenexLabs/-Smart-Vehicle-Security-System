@@ -4,7 +4,7 @@ const BOT_TOKEN = "8653510761:AAGXRmxSkr7ePumtzA4tcakWhXfFrkqsclc";
 // Chat IDs — add more real chat IDs below when ready
 export const CHAT_IDS = [
   "8456957447",   // Your chat ID
-  // "ADD_CHAT_ID_2_HERE",
+  "1222425182",
   // "ADD_CHAT_ID_3_HERE",
   // "ADD_CHAT_ID_4_HERE",
 ];
